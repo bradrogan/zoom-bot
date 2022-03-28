@@ -1,0 +1,16 @@
+{
+   "meetings":[
+      {
+         "topic":"Test",
+         "host":"user@domain.com",
+         "slackchannelhook":"https://hooks.slack.com/services/XXX",
+         "slackmessagetitle":"Test message",
+         "slackusers":[
+            {
+               "name":"Brad",
+               "slackid":"SLACK_ID"
+            }
+         ]
+      }
+   ]
+}
